@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/service-ribbon/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/eureka-server/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/service-hi/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/eureka-server/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/serice-feign/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/serice-feign/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/service-hi/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scfchapter1/service-ribbon/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/scfchapter1/eureka-server/src/main/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/eureka-server/src/test/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/serice-feign/src/main/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/serice-feign/src/test/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/service-hi/src/main/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/service-hi/src/test/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/service-ribbon/src/main/java" />
+          <root url="file://$MODULE_DIR$/scfchapter1/service-ribbon/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
